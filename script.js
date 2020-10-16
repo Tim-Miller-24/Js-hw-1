@@ -39,10 +39,10 @@ var answ4 = 49;
 var answ5 = 2;
 
 console.log("Пример 1 : 45+98=" + answ1 + ". Ваш ответ : "  + task1);
-console.log("Пример 2 : 92-54=" + answ2 + ". Ваш ответ : "  + task1);
-console.log("Пример 3 : 14*4=" + answ3 + ". Ваш ответ : "  + task1);
-console.log("Пример 4 : 98/2=" + answ4 + ". Ваш ответ : "  + task1);
-console.log("Пример 5 : 20%6=" + answ5 + ". Ваш ответ : "  + task1);
+console.log("Пример 2 : 92-54=" + answ2 + ". Ваш ответ : "  + task2);
+console.log("Пример 3 : 14*4=" + answ3 + ". Ваш ответ : "  + task3);
+console.log("Пример 4 : 98/2=" + answ4 + ". Ваш ответ : "  + task4);
+console.log("Пример 5 : 20%6=" + answ5 + ". Ваш ответ : "  + task5);
 
 
 var mistake1 = 0;
