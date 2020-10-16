@@ -13,10 +13,6 @@
 
  var age = +prompt("Введите возраст");
 
- console.log(name);
-
- console.log(age);
-
 
  var task1 = +prompt("Решите пример: 45+98");
 
@@ -29,6 +25,11 @@
  var task5 = +prompt("Решите пример: 20%6");
 
  alert("Готово! Жми f12 и открой консоль");
+ 
+ console.log(name);
+
+ console.log(age);
+
 
  console.log("Ну, пора подвести итоги, " + name);
 
@@ -38,11 +39,11 @@ var answ3 = 56;
 var answ4 = 49;
 var answ5 = 2;
 
-console.log("Пример 1 : 45+98=" + answ1 + ". Ваш ответ : "  + task1);
-console.log("Пример 2 : 92-54=" + answ2 + ". Ваш ответ : "  + task2);
-console.log("Пример 3 : 14*4=" + answ3 + ". Ваш ответ : "  + task3);
-console.log("Пример 4 : 98/2=" + answ4 + ". Ваш ответ : "  + task4);
-console.log("Пример 5 : 20%6=" + answ5 + ". Ваш ответ : "  + task5);
+console.log("Пример 1 : 45 + 98 = " + answ1 + ". Ваш ответ : "  + task1);
+console.log("Пример 2 : 92 - 54 = " + answ2 + ". Ваш ответ : "  + task2);
+console.log("Пример 3 : 14 * 4 = " + answ3 + ". Ваш ответ : "  + task3);
+console.log("Пример 4 : 98 / 2 = " + answ4 + ". Ваш ответ : "  + task4);
+console.log("Пример 5 : 20 % 6 = " + answ5 + ". Ваш ответ : "  + task5);
 
 
 var mistake1 = 0;
